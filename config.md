@@ -27,7 +27,7 @@ inside curly brackets). If any of the Configuration parameters are missing their
     * Default value: `0`
 1. ##### `"offsetY"`
     * Offsets widget position on a vertical axis, otherwise the same as X offset.
-    * Default value: `0`
+    * Default value: `2`
 1. ##### `"style"`
     * Widget slot style defines how slots are drawn on the screen. If widget slots look weird
       (for example, parts of texture do not match) with your resource pack you should try different styles to find
